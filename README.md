@@ -17,7 +17,7 @@ BeanSwift is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'BeanSwift', :git => 'https://github.com/TripleCafe/BeanSwift.git', :tag => '0.1.0'
+pod 'BeanSwift'
 ```
 
 ## Author
