@@ -1,0 +1,16 @@
+PODS:
+  - BeanSwift (0.1.0)
+
+DEPENDENCIES:
+  - BeanSwift (from `../`)
+
+EXTERNAL SOURCES:
+  BeanSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BeanSwift: 0dbf6e37c4cf151e469fd01725e86e6a1994f4e9
+
+PODFILE CHECKSUM: fcc0f247351351df92597271584fdd88dffb67c8
+
+COCOAPODS: 1.9.3

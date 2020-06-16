@@ -1,0 +1,6 @@
+framework module BeanSwift {
+  umbrella header "BeanSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
